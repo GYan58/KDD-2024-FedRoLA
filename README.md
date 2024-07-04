@@ -33,7 +33,7 @@ If you use the simulator or some results in our paper for a published project, p
 
 ```
 @inproceedings{yan2024fedrola,
-  title={FedRoLa: Robust Federated Learning Against Model Poisoning via Layer-based Aggregation},
+  title={FedRoLA: Robust Federated Learning Against Model Poisoning via Layer-based Aggregation},
   author={Gang Yan, Hao Wang, Xu Yuan and Jian Li},
   booktitle={Proc. of ACM SIGKDD},
   year={2024}
