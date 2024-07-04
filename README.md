@@ -21,9 +21,9 @@ Prerequisites
 # Implementation
 
 1. To execute the algorithms, run the ./Main.py file using the following command:
-'''
+```
    python3 ./Main.py
-'''
+```
 
 2. Adjust the parameters and configurations within the ./Main.py file to suit your specific needs.
 
